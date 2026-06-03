@@ -11,13 +11,16 @@ A lógica das operações foi implementada em JavaScript. Ao inserir dois númer
 
 Soma
 ![alt text](image.png)
-
+A operação de soma é utilizada para adicionar dois valores. O programa recebe os números informados pelo usuário e calcula o resultado através da expressão n1 + n2.
 
 Subtração
 ![alt text](image-1.png)
+A operação de subtração é utilizada para calcular a diferença entre dois valores. O resultado é obtido pela expressão n1 - n2.
 
 Multiplicação
 ![alt text](image-2.png)
+A operação de multiplicação é utilizada para calcular o produto entre dois números. O cálculo é realizado pela expressão n1 * n2.
 
 Divisão
 ![alt text](image-3.png)
+A operação de divisão é utilizada para determinar quantas vezes um número está contido em outro. O resultado é calculado pela expressão n1 / n2.
