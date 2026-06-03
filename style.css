@@ -1,0 +1,45 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #ffffff;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    height: 100vh;
+}
+
+.calculadora {
+    background-color: rgba(27, 4, 4, 0.13);
+
+    padding: 20px;
+
+    border-radius: 10px;
+
+    box-shadow: 0 0 10px rgba(19, 32, 148, 0.685);
+
+    text-align: center;
+}
+
+input {
+    display: block;
+
+    width: 300px;
+
+    margin: 10px auto;
+
+    padding: 10px;
+}
+
+button {
+    padding: 10px 15px;
+
+    margin: 5px;
+
+    cursor: pointer;
+}
+
+#resultado {
+    font-size: 24px;
+    font-weight: bold;
+}
