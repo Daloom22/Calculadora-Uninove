@@ -10,7 +10,7 @@ A estrutura da página foi criada com HTML, contendo dois campos de texto para a
 A lógica das operações foi implementada em JavaScript. Ao inserir dois números e clicar em um dos botões, o programa realiza o cálculo correspondente e exibe o resultado. Para cada operação, foi utilizada uma expressão matemática adequada, como adição, subtração, multiplicação ou divisão.
 
 Soma
-![soma](Imagens/divisao.png)
+![soma](Imagens/soma.png)
 A operação de soma é utilizada para adicionar dois valores. O programa recebe os números informados pelo usuário e calcula o resultado através da expressão n1 + n2.
 
 Subtração
